@@ -1,2 +1,2 @@
 # Kadiro.py
-The simple code in python 
+The simple code in python
